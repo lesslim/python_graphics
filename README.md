@@ -36,7 +36,7 @@ t-6
 Если у вас *nix:
 Клонируем репозиторий и компилим решение (которое на C):
 ```
-git clone 
+git clone https://github.com/lesslim/python_graphics.git
 cd python_graphics
 make
 ```
