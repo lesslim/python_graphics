@@ -34,6 +34,7 @@ t-6
 
 ## Как всем этим пользоваться?
 Если у вас *nix:
+
 Клонируем репозиторий и компилим решение (которое на C):
 ```
 git clone https://github.com/lesslim/python_graphics.git
